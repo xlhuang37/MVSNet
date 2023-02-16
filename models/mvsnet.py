@@ -59,10 +59,12 @@ class CostRegNet(nn.Module):
         self.prob = nn.Conv3d(8, 1, 3, stride=1, padding=1)
 
     def forward(self, x):
+
         conv0 = self.conv0(x)
         conv2 = self.conv2(self.conv1(conv0))
         conv4 = self.conv4(self.conv3(conv2))
         x = self.conv6(self.conv5(conv4))
+
         x = conv4 + self.conv7(x)
         x = conv2 + self.conv9(x)
         x = conv0 + self.conv11(x)

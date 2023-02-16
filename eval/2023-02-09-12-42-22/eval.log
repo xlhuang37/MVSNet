@@ -1,0 +1,114 @@
+[94m12:42:22 [92m[INFO][94m [0m: argv: []
+[94m12:42:22 [92m[INFO][94m [0m: ################################  args  ################################
+[94m12:42:22 [92m[INFO][94m [0m: model     	mvsnet                        	<class 'str'>       
+[94m12:42:22 [92m[INFO][94m [0m: dataset   	diligent_mv                   	<class 'str'>       
+[94m12:42:22 [92m[INFO][94m [0m: testpath  	/playpen-nas-ssd/xiaolong/data/training_data/DiLiGenT-MV/mvpmsData	<class 'str'>       
+[94m12:42:22 [92m[INFO][94m [0m: testlist  	/playpen-nas-ssd/xiaolong/data/training_data/DiLiGenT-MV/mvpmsData/diligent_mv_pairs.txt	<class 'str'>       
+[94m12:42:22 [92m[INFO][94m [0m: batch_size	1                             	<class 'int'>       
+[94m12:42:22 [92m[INFO][94m [0m: numdepth  	192                           	<class 'int'>       
+[94m12:42:22 [92m[INFO][94m [0m: interval_scale	1.06                          	<class 'float'>     
+[94m12:42:22 [92m[INFO][94m [0m: loadckpt  	/playpen-nas-ssd/xiaolong/project/MVSNet_pytorch/datasets/model_000014.ckpt	<class 'str'>       
+[94m12:42:22 [92m[INFO][94m [0m: logdir    	/playpen-nas-ssd/xiaolong/project/MVPS/result	<class 'str'>       
+[94m12:42:22 [92m[INFO][94m [0m: display   	False                         	<class 'bool'>      
+[94m12:42:22 [92m[INFO][94m [0m: ########################################################################
+[94m12:42:24 [92m[INFO][94m [0m: loading model /playpen-nas-ssd/xiaolong/project/MVSNet_pytorch/datasets/model_000014.ckpt
+[94m12:42:29 [92m[INFO][94m [0m: Iter 0/100
+[94m12:42:29 [92m[INFO][94m [0m: Iter 1/100
+[94m12:42:29 [92m[INFO][94m [0m: Iter 2/100
+[94m12:42:30 [92m[INFO][94m [0m: Iter 3/100
+[94m12:42:30 [92m[INFO][94m [0m: Iter 4/100
+[94m12:42:30 [92m[INFO][94m [0m: Iter 5/100
+[94m12:42:31 [92m[INFO][94m [0m: Iter 6/100
+[94m12:42:31 [92m[INFO][94m [0m: Iter 7/100
+[94m12:42:31 [92m[INFO][94m [0m: Iter 8/100
+[94m12:42:32 [92m[INFO][94m [0m: Iter 9/100
+[94m12:42:32 [92m[INFO][94m [0m: Iter 10/100
+[94m12:42:32 [92m[INFO][94m [0m: Iter 11/100
+[94m12:42:32 [92m[INFO][94m [0m: Iter 12/100
+[94m12:42:33 [92m[INFO][94m [0m: Iter 13/100
+[94m12:42:33 [92m[INFO][94m [0m: Iter 14/100
+[94m12:42:33 [92m[INFO][94m [0m: Iter 15/100
+[94m12:42:34 [92m[INFO][94m [0m: Iter 16/100
+[94m12:42:34 [92m[INFO][94m [0m: Iter 17/100
+[94m12:42:34 [92m[INFO][94m [0m: Iter 18/100
+[94m12:42:35 [92m[INFO][94m [0m: Iter 19/100
+[94m12:42:35 [92m[INFO][94m [0m: Iter 20/100
+[94m12:42:35 [92m[INFO][94m [0m: Iter 21/100
+[94m12:42:35 [92m[INFO][94m [0m: Iter 22/100
+[94m12:42:36 [92m[INFO][94m [0m: Iter 23/100
+[94m12:42:36 [92m[INFO][94m [0m: Iter 24/100
+[94m12:42:36 [92m[INFO][94m [0m: Iter 25/100
+[94m12:42:37 [92m[INFO][94m [0m: Iter 26/100
+[94m12:42:37 [92m[INFO][94m [0m: Iter 27/100
+[94m12:42:37 [92m[INFO][94m [0m: Iter 28/100
+[94m12:42:37 [92m[INFO][94m [0m: Iter 29/100
+[94m12:42:38 [92m[INFO][94m [0m: Iter 30/100
+[94m12:42:38 [92m[INFO][94m [0m: Iter 31/100
+[94m12:42:38 [92m[INFO][94m [0m: Iter 32/100
+[94m12:42:39 [92m[INFO][94m [0m: Iter 33/100
+[94m12:42:39 [92m[INFO][94m [0m: Iter 34/100
+[94m12:42:39 [92m[INFO][94m [0m: Iter 35/100
+[94m12:42:40 [92m[INFO][94m [0m: Iter 36/100
+[94m12:42:40 [92m[INFO][94m [0m: Iter 37/100
+[94m12:42:40 [92m[INFO][94m [0m: Iter 38/100
+[94m12:42:40 [92m[INFO][94m [0m: Iter 39/100
+[94m12:42:41 [92m[INFO][94m [0m: Iter 40/100
+[94m12:42:41 [92m[INFO][94m [0m: Iter 41/100
+[94m12:42:41 [92m[INFO][94m [0m: Iter 42/100
+[94m12:42:42 [92m[INFO][94m [0m: Iter 43/100
+[94m12:42:42 [92m[INFO][94m [0m: Iter 44/100
+[94m12:42:42 [92m[INFO][94m [0m: Iter 45/100
+[94m12:42:42 [92m[INFO][94m [0m: Iter 46/100
+[94m12:42:43 [92m[INFO][94m [0m: Iter 47/100
+[94m12:42:43 [92m[INFO][94m [0m: Iter 48/100
+[94m12:42:43 [92m[INFO][94m [0m: Iter 49/100
+[94m12:42:44 [92m[INFO][94m [0m: Iter 50/100
+[94m12:42:44 [92m[INFO][94m [0m: Iter 51/100
+[94m12:42:44 [92m[INFO][94m [0m: Iter 52/100
+[94m12:42:44 [92m[INFO][94m [0m: Iter 53/100
+[94m12:42:45 [92m[INFO][94m [0m: Iter 54/100
+[94m12:42:45 [92m[INFO][94m [0m: Iter 55/100
+[94m12:42:45 [92m[INFO][94m [0m: Iter 56/100
+[94m12:42:46 [92m[INFO][94m [0m: Iter 57/100
+[94m12:42:46 [92m[INFO][94m [0m: Iter 58/100
+[94m12:42:46 [92m[INFO][94m [0m: Iter 59/100
+[94m12:42:47 [92m[INFO][94m [0m: Iter 60/100
+[94m12:42:47 [92m[INFO][94m [0m: Iter 61/100
+[94m12:42:47 [92m[INFO][94m [0m: Iter 62/100
+[94m12:42:47 [92m[INFO][94m [0m: Iter 63/100
+[94m12:42:48 [92m[INFO][94m [0m: Iter 64/100
+[94m12:42:48 [92m[INFO][94m [0m: Iter 65/100
+[94m12:42:48 [92m[INFO][94m [0m: Iter 66/100
+[94m12:42:49 [92m[INFO][94m [0m: Iter 67/100
+[94m12:42:49 [92m[INFO][94m [0m: Iter 68/100
+[94m12:42:49 [92m[INFO][94m [0m: Iter 69/100
+[94m12:42:49 [92m[INFO][94m [0m: Iter 70/100
+[94m12:42:50 [92m[INFO][94m [0m: Iter 71/100
+[94m12:42:50 [92m[INFO][94m [0m: Iter 72/100
+[94m12:42:50 [92m[INFO][94m [0m: Iter 73/100
+[94m12:42:51 [92m[INFO][94m [0m: Iter 74/100
+[94m12:42:51 [92m[INFO][94m [0m: Iter 75/100
+[94m12:42:51 [92m[INFO][94m [0m: Iter 76/100
+[94m12:42:52 [92m[INFO][94m [0m: Iter 77/100
+[94m12:42:52 [92m[INFO][94m [0m: Iter 78/100
+[94m12:42:52 [92m[INFO][94m [0m: Iter 79/100
+[94m12:42:52 [92m[INFO][94m [0m: Iter 80/100
+[94m12:42:53 [92m[INFO][94m [0m: Iter 81/100
+[94m12:42:53 [92m[INFO][94m [0m: Iter 82/100
+[94m12:42:53 [92m[INFO][94m [0m: Iter 83/100
+[94m12:42:54 [92m[INFO][94m [0m: Iter 84/100
+[94m12:42:54 [92m[INFO][94m [0m: Iter 85/100
+[94m12:42:54 [92m[INFO][94m [0m: Iter 86/100
+[94m12:42:54 [92m[INFO][94m [0m: Iter 87/100
+[94m12:42:55 [92m[INFO][94m [0m: Iter 88/100
+[94m12:42:55 [92m[INFO][94m [0m: Iter 89/100
+[94m12:42:55 [92m[INFO][94m [0m: Iter 90/100
+[94m12:42:56 [92m[INFO][94m [0m: Iter 91/100
+[94m12:42:56 [92m[INFO][94m [0m: Iter 92/100
+[94m12:42:56 [92m[INFO][94m [0m: Iter 93/100
+[94m12:42:56 [92m[INFO][94m [0m: Iter 94/100
+[94m12:42:57 [92m[INFO][94m [0m: Iter 95/100
+[94m12:42:57 [92m[INFO][94m [0m: Iter 96/100
+[94m12:42:57 [92m[INFO][94m [0m: Iter 97/100
+[94m12:42:58 [92m[INFO][94m [0m: Iter 98/100
+[94m12:42:58 [92m[INFO][94m [0m: Iter 99/100

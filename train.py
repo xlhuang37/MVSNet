@@ -21,7 +21,7 @@ import datetime
 cudnn.benchmark = True
 
 parser = argparse.ArgumentParser(description='A PyTorch Implementation of MVSNet')
-parser.add_argument('--mode', default='train', help='train or test', choices=['train', 'test', 'profile'])
+parser.add_argument('--mode', default='test', help='train or test', choices=['train', 'test', 'profile'])
 parser.add_argument('--model', default='mvsnet', help='select model')
 
 parser.add_argument('--dataset', default='dtu_yao', help='select dataset')

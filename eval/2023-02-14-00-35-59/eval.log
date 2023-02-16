@@ -1,0 +1,14 @@
+[94m00:35:59 [92m[INFO][94m [0m: argv: []
+[94m00:35:59 [92m[INFO][94m [0m: ################################  args  ################################
+[94m00:35:59 [92m[INFO][94m [0m: model     	mvsnet                        	<class 'str'>       
+[94m00:35:59 [92m[INFO][94m [0m: dataset   	diligent_mv                   	<class 'str'>       
+[94m00:35:59 [92m[INFO][94m [0m: testpath  	/playpen-nas-ssd/xiaolong/data/DiLiGenT-MV/mvpmsData	<class 'str'>       
+[94m00:35:59 [92m[INFO][94m [0m: testlist  	/playpen-nas-ssd/xiaolong/data/DiLiGenT-MV/mvpmsData/diligent_mv_pairs.txt	<class 'str'>       
+[94m00:35:59 [92m[INFO][94m [0m: batch_size	1                             	<class 'int'>       
+[94m00:35:59 [92m[INFO][94m [0m: numdepth  	192                           	<class 'int'>       
+[94m00:35:59 [92m[INFO][94m [0m: interval_scale	1.06                          	<class 'float'>     
+[94m00:35:59 [92m[INFO][94m [0m: loadckpt  	/playpen-nas-ssd/xiaolong/project/MVSNet_pytorch/datasets/model_000014.ckpt	<class 'str'>       
+[94m00:35:59 [92m[INFO][94m [0m: logdir    	/playpen-nas-ssd/xiaolong/project/MVPS/result	<class 'str'>       
+[94m00:35:59 [92m[INFO][94m [0m: display   	False                         	<class 'bool'>      
+[94m00:35:59 [92m[INFO][94m [0m: ########################################################################
+[94m00:36:00 [92m[INFO][94m [0m: loading model /playpen-nas-ssd/xiaolong/project/MVSNet_pytorch/datasets/model_000014.ckpt
